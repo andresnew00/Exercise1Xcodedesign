@@ -2,4 +2,4 @@
 
 Practicing what I learned about Xcode so far! 
 
-![](screenshot/screenshot)
+![](screenshot/screenshot.png)
